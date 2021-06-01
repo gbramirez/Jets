@@ -1,0 +1,10 @@
+JetImpl, Civijet, 400, 4000, 140000 
+JetImpl, Civijet2, 500, 5000, 150000
+CargoPlane, Cargobob, 600, 6000, 160000
+CargoPlane, Cargobill, 700, 7000, 170000
+CargoPlane, Cargobetty, 800, 8000, 180000
+CargoPlane, Cargoboss, 900, 9000, 190000
+FighterJet, Fighterfrank, 1000, 10000, 1000000
+FighterJet, Fighterfil, 1100, 11000, 1100000
+FighterJet, Fighterfran, 1200, 12000, 1200000
+FighterJet, Fighterfabio 1300, 13000, 1300000
